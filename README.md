@@ -1,16 +1,17 @@
-### Hi there 👋
+# Opa! Me chamo Vitor Gabriel ✌️
+### Contatos ✉️
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_gb04/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-25b392275/)
 
-<!--
-**Vitorgb7/Vitorgb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgb7&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tecnlogias que eu utilizo 💻
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim -
+Apaixonado por tecnologia,atualmente estudando javascript e com muitos sonhos a alcançar!
