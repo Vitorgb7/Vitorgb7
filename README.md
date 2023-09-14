@@ -1,4 +1,4 @@
-# Opa! Me chamo Vitor Gabriel ✌️
+# Olá! Me chamo Vitor Gabriel ✌️
 ### Contatos ✉️
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_gb04/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-25b392275/)
