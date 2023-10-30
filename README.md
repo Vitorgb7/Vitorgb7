@@ -2,6 +2,7 @@
 ### Contatos ✉️
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_gb04/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-25b392275/)
+[![hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vitorgabriel1811)
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgb7&show_icons=true&theme=tokyonight)
 
