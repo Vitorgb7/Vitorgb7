@@ -19,4 +19,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgb7&hide_progress=true)
 
 ## Sobre mim -
-Apaixonado por tecnologia,atualmente estudando javascript e com muitos sonhos a alcançar!
+Apaixonado por tecnologia,atualmente estudando javascript/node/react e com muitos sonhos a alcançar!
