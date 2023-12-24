@@ -19,12 +19,6 @@
     <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    </div>
-    
-  
-  <h1 align="center">Contatos-</h1>
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_gb04/)
-   [![Instagram](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](linkedin.com/in/vitor-gabriel-25b392275/)
-  
 </div>
   
 ## Sobre mim -
