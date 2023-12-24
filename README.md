@@ -21,7 +21,7 @@
    </div>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <a href="linkedin.com/in/vitor-gabriel-25b392275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitorgb7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vitor_gb04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.m.kaseb" height="30" width="40" /></a>
 
