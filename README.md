@@ -20,8 +20,9 @@
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    </div>
 </div>
+<br>
 
-<h1 align="center">Connect with me:</h1><br>
+<h1 align="center">Contatos-</h1>
 <div align="center">
 <a href="linkedin.com/in/vitor-gabriel-25b392275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitorgb7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vitor_gb04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.m.kaseb" height="30" width="40" /></a>
