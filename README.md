@@ -22,15 +22,9 @@
     
   
   <h1 align="center">Contatos-</h1>
-    <a href = "mailto: vitorgabriel181004@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "linkedin.com/in/vitor-gabriel-25b392275/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/vitor_gb04/">
-      <img width="25" src="instagram.svg">
-    </a>
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_gb04/)
+   [![Instagram](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](linkedin.com/in/vitor-gabriel-25b392275/)
+  
 </div>
   
 ## Sobre mim -
