@@ -1,22 +1,40 @@
 # Olá! Me chamo Vitor Gabriel ✌️
-### Contatos ✉️
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_gb04/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-25b392275/)
-[![hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vitorgabriel1811)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgb7&show_icons=true&theme=tokyonight)
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorgb7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorgb7&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-
-## Tecnolgias que eu utilizo 💻
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorgb7&layout=compact)
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tecnologias que mais utilizo:</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   </div>
+    
+  
+  <h1 align="center">Contatos-</h1>
+    <a href = "mailto: vitorgabriel181004@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "linkedin.com/in/vitor-gabriel-25b392275/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/vitor_gb04/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 ## Sobre mim -
 Apaixonado por tecnologia,atualmente estudando javascript/node/react e com muitos sonhos a alcançar!
