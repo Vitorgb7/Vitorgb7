@@ -24,13 +24,13 @@
   
   <h1 align="center">Contatos-</h1>
     <a href = "mailto: vitorgabriel181004@gmail.com">
-      <img width="30" src="">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "linkedin.com/in/vitor-gabriel-25b392275/">
-      <img width="25" src="">
+      <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/vitor_gb04/">
-      <img width="25" src="">
+      <img width="25" src="instagram.svg">
     </a>
 </div>
   
