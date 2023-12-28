@@ -4,7 +4,6 @@
 - 💻 I'm currently studying front-end/web development
 - 📫 How to reach me **vitorgabriel181004@gmail.com**
 <br>
-
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
