@@ -5,12 +5,6 @@
 - 📫 How to reach me **vitorgabriel181004@gmail.com**
 <br>
 
-<div>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Vitorgb7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorgb7&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<br>
-
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
