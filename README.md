@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql.svg"> -->
     <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,aws,java,express,css,html,js,nodejs,mysql,sqlite,git,github,docker,postman,figma,vscode,bash,jest,mongodb,nestjs,nextjs,react,sass,tailwind,ts,ps&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vscode,ts,aws,nextjs,express,css,html,js,nodejs,mysql,git,github,docker,postman,figma,vscode,bash,jest,mongodb,nestjs,react,sass,tailwind,java" />
   </a>
   </p>
   <br>
