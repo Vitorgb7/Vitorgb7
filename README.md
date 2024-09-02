@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1>Hi ✌, I'm Vitor Gabriel</h1>
-<h3>Front-end Developer</h3>
+<h3>Software Developer Developer</h3>
 
 - 🌱 I’m currently learning **architecture in AWS and how to build scalable applications, and web development**
 - ☁️ I've keen interest in cloud computing. **So,I'm learning AWS**
