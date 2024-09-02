@@ -12,7 +12,6 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Vitorgb7&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorgb7&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -29,7 +28,7 @@
     <h1 align="left">Languages and Tools-</h1>
     <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,ts,aws,nextjs,express,css,html,js,nodejs,mysql,git,github,docker,postman,figma,bash,jest,mongodb,nestjs,react,sass,tailwind,java" />
+  <img src="https://skillicons.dev/icons?i=vscode,ts,aws,nextjs,express,css,html,js,nodejs,mysql,git,github,docker,postman,figma,bash,jest,mongodb,nestjs,react,sass,tailwind" />
   </a>
   </p>
   <br>
