@@ -28,7 +28,7 @@
     <h1 align="left">Languages and Tools-</h1>
     <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,ts,aws,nextjs,express,css,html,js,nodejs,mysql,git,github,docker,postman,figma,bash,jest,mongodb,nestjs,react,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,aws,nextjs,express,css,html,js,nodejs,mysql,git,docker,postman,figma,bash,jest,mongodb,nestjs,react,sass,tailwind" />
   </a>
   </p>
   <br>
