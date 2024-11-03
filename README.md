@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **architecture in AWS and how to build scalable applications, and web development**
 - ☁️ I've keen interest in cloud computing. **So,I'm learning AWS**
 - 📫 How to reach me **vitorgabriel181004@gmail.com**
+- 📁 My Portfolio **https://portfolio-vitor-gabriel.vercel.app/**
 <br>
 <table align="center">
 <tr border="none">
@@ -41,3 +42,5 @@
 <a href="https://www.linkedin.com/in/vitor-gabriel-silva-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitorgb7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vitor_gb04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.m.kaseb" height="30" width="40" /></a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
