@@ -29,7 +29,7 @@
     <h1 align="left">Languages and Tools-</h1>
     <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,linux, ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
   </a>
   </p>
   <br>
