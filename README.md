@@ -29,11 +29,6 @@
 </div>
 <br>
 
-
-<img src="https://raw.githubusercontent.com/Vitorgb7/Vitorgb7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Contacts-</h1>
 <div align="left">
 <a href="https://www.linkedin.com/in/vitor-gabriel-silva-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitorgb7" height="30" width="40" /></a>
