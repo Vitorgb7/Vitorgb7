@@ -15,17 +15,6 @@
   <br></br>
 </td>
 
-<td width="50%" align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitorgb7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###  
-  </td>
-</tr>
-</table>
-
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
