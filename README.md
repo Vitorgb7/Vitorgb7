@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **architecture in AWS and how to build scalable applications, and web development**
 - ☁️ I've keen interest in cloud computing. **So,I'm learning AWS**
 - 📫 How to reach me **vitorgabriel181004@gmail.com**
-- 📰 Blog: I share my learnings and projects on my blog: [https://horizontech.hashnode.dev/].
+- 📰 Blog: I share my learnings and projects on my blog: **https://horizontech.hashnode.dev/**
 - 📁 My Portfolio **https://portfolio-vitor-gabriel.vercel.app/**
 <br>
 
