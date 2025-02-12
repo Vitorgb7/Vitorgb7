@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1>Hi ✌, I'm Vitor Gabriel</h1>
-<h3>Software Developer</h3>
+<h3>Software Developer and AI Engineer</h3>
 
-- 🌱 I’m currently learning **architecture in AWS and how to build scalable applications, and web development**
+- 🌱 I’m currently learning **architecture in AWS and how to build scalable applications, and  and AI engineering.**
 - ☁️ I've keen interest in cloud computing. **So,I'm learning AWS**
 - 📫 How to reach me **vitorgabriel181004@gmail.com**
 - 📰 Blog: I share my learnings and projects on my blog: **https://horizontech.hashnode.dev/**
