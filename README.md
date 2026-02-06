@@ -11,17 +11,14 @@
 
 <br>
 
-<div align="left"> 
-  <img align="left" height="160" alt="space-coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qB0JvqvOAdWvS/giphy.gif">
-  <h1 align="left">Languages and Tools</h1>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
-    </a>
-  </p>
-</div>
+<h1 align="left">Languages and Tools</h1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 <h1 align="left">Contacts</h1>
 <div align="left">
