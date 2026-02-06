@@ -4,7 +4,7 @@
 ### Software Developer and AI Engineer
 
 - 🌱 I’m currently deepening my expertise in **scalable AI solutions**, focusing on high-performance architectures within **AWS, Azure and GCP** environments.
-- 🤖 Specialized in **Artificial Intelligence Engineering**, focusing on the development and deployment of Large Language Models (LLMs), RAG systems, Agentic AI and Neural Network optimization.
+- 🤖 Specialized in **Artificial Intelligence Engineering**, focusing on the development and deployment of Large Language Models (LLMs), RAG systems, **Agentic AI** and Neural Network optimization.
 - 📫 How to reach me: **vitorgabriel181004@gmail.com**
 - 📰 Scientific Contributions: **https://www.linkedin.com/company/datamind-research-group/**
 - 📁 My Portfolio: **https://portfolio-vitor-gabriel.vercel.app/**
@@ -12,11 +12,11 @@
 <br>
 
 <div align="left"> 
-  <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="left" height="160" alt="space-coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4bmZ6Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qB0JvqvOAdWvS/giphy.gif">
   <h1 align="left">Languages and Tools</h1>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,linux,ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ts,nextjs,express,tensorflow,python,flask,sklearn,js,nodejs,mysql,git,docker,postgre,supabase,jest,mongodb,nestjs,react,sass,tailwind" />
     </a>
   </p>
 </div>
